@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgc {
+    background-color: #1b1b1b;
+    height: 120vh;
+    background-size: cover;
+    width: 100vh;
+}
+
+.hd {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.imgap {
+    height: 35vh;
+    background-size: cover;
+}
+
+.hd1 {
+    color: #183b56;
+    font-family: Bree Serif;
+    font-size: 14px;
+}
+
+.hd2 {
+    color: #183b56;
+    font-family: Bree Serif;
+    font-size: 8px;
+}
+
+.p1 {
+    color: #06070d;
+    font-family: Bree Serif;
+    font-size: 10px;
+}
+
+.bgc1 {
+    background-color: #e6f6ff;
+    height: 35vh;
+    background-size: cover;
+    border-radius: 8px;
+    width: 60vh;
+}
+
+.btn {
+    width: 76px;
+    font-family: Roboto;
+    font-size: 11px;
+
+}
+
+.pad {
+    padding: 15px;
+}
+
+.hd3 {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 20px;
+}
+
+.img {
+    height: 25vh;
+    background-size: cover;
+}
+
+.hd4 {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 14px;
+}
+
+.p2 {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 10px;
+}
+
+.mar {
+    margin: 15px;
+}
+
+.pad1 {
+    padding: 5px;
+}
+
+.img1 {
+    height: 60vh;
+    background-size: cover;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    width: 40vh;
+}
+
+.hd5 {
+    color: #9aa5b1;
+    font-family: Bree Serif;
+    font-size: 10px;
+}
+
+.align {
+    align-items: center;
+    text-align: center;
+}
+
+.p3 {
+    color: #e4e7eb;
+    font-family: Bree Serif;
+    font-size: 10px;
+    margin: 20px;
+}
+
+.bgc2 {
+    background-color: #1b1b1b;
+    height: 130vh;
+    background-size: cover;
+
+}
